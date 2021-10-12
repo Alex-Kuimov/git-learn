@@ -1,5 +1,5 @@
 <?php 
 
-echo 'kk01';
+var_dump ('awdawdawdwad');
 
 ?>
